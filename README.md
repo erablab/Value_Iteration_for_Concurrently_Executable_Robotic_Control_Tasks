@@ -5,5 +5,5 @@ algos -> Contains implementation of our proposed version of continuous fitted va
 
 system_models-> Contains abstract class for control affine systems required for code in algos. The model of single-integrator multi-robot systems used in the paper's experiments is provided. These models are not only compatible with our code, but are also valid Gymnasium environments, so can also be tested with existing RL libraries such as Stable Baselines.
 
-This code was taken from and put together from my own private repositories and there may be bugs, both in general and from me moving things around. You can direct any questions or comments to sheikh.abrar.tahmid@uwaterloo.ca. 
+This code was taken from and put together from my own private repositories that I used to conduct the research. There may be bugs, both in general and from me moving things around. You can direct any questions or comments to sheikh.abrar.tahmid@uwaterloo.ca. 
 
