@@ -1,4 +1,4 @@
-# Value_Iteration_for_Concurrently_Executable_Robotic_Control_Tasks
+# Value_Iteration_for_Learning_Concurrently_Executable_Robotic_Control_Tasks
 Supplementary code repository for 2025 AAMAS paper "Value Iteration for Concurrently Executable Robotic Control Tasks"
 
 algos -> Contains implementation of our proposed version of continuous fitted value iteration for concurrently executable tasks as well as the min-norm controller that executes each of the learned value functions as CLFs.
